@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+      <title>Drew's site</title>
+    </head>
+    
+    <body>
+       <div> 
+          <nav> 
+         
+          </nav>
+          
+          <main> 
+            <!--sidebar section-->
+            <div>
+
+            </div>
+            <!--content section-->
+            <div> 
+                <h2>Drew</h2>
+                <p>Student at BCHS</p>
+                   <!--Interest section-->
+                   <div>
+                    <h3>My Intreests</h3>
+                     <ul>
+                         <li>listening to music</li>
+                         <li>playing videogames</li>
+                         <li>thing</li>
+                     </ul>
+                 </div>
+                   </div>
+
+            </div>
+          </main>
+       </div>
+    </body>
+</html>
