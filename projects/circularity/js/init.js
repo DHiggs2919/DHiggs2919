@@ -44,8 +44,6 @@ var init = function (window) {
         */
         function update() {
             // TODO 4 : Update the circle's position //
-            function update() {
-                // TODO 4 : Update the circle's position //
            
                 for (var i = 0; i < circles.length; i++){
                     var eachCircles = circles[i]
